@@ -1,5 +1,7 @@
 # 📐 Maths for AI – Foundations
 
+> **Best Reference:** [Pablo Insente – Intro to Linear Algebra for Applied ML](https://pabloinsente.github.io/intro-linear-algebra)
+
 This folder contains my notes, code, and practice from the **Mathematics for Machine Learning and Data Science** course by Deeplearning.ai on Coursera.
 
 ## 📚 Modules Covered
